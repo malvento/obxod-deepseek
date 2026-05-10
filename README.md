@@ -3,7 +3,7 @@
 
 Как получить промпт.
 
-git clone https://github.com/malvento/odxod-deepseek/tree/main
+git clone https://github.com/malvento/odxod-deepseek
 
 cd odxod-deepseek
 
