@@ -7,4 +7,4 @@ git clone https://github.com/malvento/odxod-deepseek
 
 cd odxod-deepseek
 
-python odxod.py
+python void-obxod.py
